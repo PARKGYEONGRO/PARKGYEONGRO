@@ -1,4 +1,4 @@
-# 박 경로(Park gyeongro)
+# 박 경로(PARK GYEONGRO)
 ---
 2003.09.04
 #### 풀스택 개발자가 되고 싶은 대학생:computer:
