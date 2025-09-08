@@ -11,7 +11,7 @@
   <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="150"/>
   
   <div id="badges">
-  <a href="https://www.instagram.com/s._.jhoon/">
+  <a href="https://www.instagram.com/s._.jhoon/](https://www.instagram.com/p_gyeongro/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCpCD2rr3BXem2xWkMA7tGhg">
