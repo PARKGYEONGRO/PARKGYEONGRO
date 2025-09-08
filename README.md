@@ -4,4 +4,4 @@
 #### A student who wants to do well in both data analysis and development
 #### 백엔드에 재미 붙이는중
 
-### VSCODE / Atom One Dark
+### VSCODE / Python / Atom One Dark
