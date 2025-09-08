@@ -14,10 +14,10 @@
   <a href="https://www.instagram.com/p_gyeongro/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCpCD2rr3BXem2xWkMA7tGhg">
+  <a href="">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://sjh4ck3r.tistory.com/">
+  <a href="https://gyeongro.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Badge"/>
   </a>
   </div>
