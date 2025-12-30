@@ -7,7 +7,7 @@
 ### VSCODE / Python / Atom One Dark
 
 
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="150"/>
   
   <div id="badges">
@@ -22,4 +22,4 @@
   </a>
   </div>
   
-</div>
+</div> -->
