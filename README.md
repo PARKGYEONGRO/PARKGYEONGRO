@@ -2,7 +2,8 @@
 ---
 #### 데이터분석과 프로그램 개발 모두 잘 하고 싶은 학생
 #### A student who wants to do well in both data analysis and development
-#### 백엔드에 재미 붙이는중
+#### 이것저것 쓰기 복잡하다.
+#### 깃허브, 노션만 사용
 
 ### VSCODE / Python / Atom One Dark
 ---
