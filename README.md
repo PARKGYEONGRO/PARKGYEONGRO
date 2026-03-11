@@ -5,7 +5,8 @@
 #### 이것저것 쓰기 복잡하다.
 #### 깃허브, 노션만 사용
 
-### VSCODE / Python / Atom One Dark
+### Python / R / SPSS
+### VSCODE / Atom One Dark
 ---
 ### 나와의 약속 / Personal use naming rules
 ### - 헝가리안 표기법(hungarian case)
