@@ -1,11 +1,10 @@
 # 박경로(PARKGYEONGRO)
 ---
-#### 프로그램, 웹 개발, 데이터분석, 마이닝 등 모두 잘 하고 싶은 학생
-#### A student who wants to do well in both data analysis and development
-#### 이것저것 쓰기 복잡하다.
-#### 깃허브, 노션만 사용
+#### 프로그램, 웹 개발, 데이터분석, 마이닝, AI 등 모두 잘 하고 싶은 학생
+#### A student who wants to do well in Program, Web Development, Data Analysis, Data mining and AI etc
+#### GitHub, Notion만 사용(뭐 많이 쓰더라~, 요즘 이게 유행이더라~,... daaaamn)
 
-### Python / R / SPSS
+### Python / R / SPSS / SAS
 ### VSCODE / Atom One Dark
 ---
 ### 나와의 약속 / Personal use naming rules
