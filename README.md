@@ -8,18 +8,7 @@
 ### VSCODE / Atom One Dark
 ---
 ### 나와의 약속 / Personal use naming rules
-### - 헝가리안 표기법(hungarian case)
-#### int intNum;       // int형 변수, intNum 또는 iNum으로도 사용
-#### String strName;   // String형 변수, strName 또는 sName으로도 사용 
-#### boolean boolNext; // boolean형 변수, boolNext 또는 bNext으로도 사용
-##### 팀 프로젝트에선 사용자제 하자..
-
-### - 카멜 표기법(camelcase)
-#### int myNumber;     // int형 변수
-#### String myName;    // String형 변수
-#### boolean isNext;   // boolean형 변수
-##### 기본 베이스
-
+### 실무에서 파스칼이랑 언더바 표기법 많이 쓴다길래 습관 바꿀게요
 ### - 파스칼 표기법(pascal case), 언더바 표기법(snake_case)
 #### int MyNumber;     // int형 변수
 #### String MyName;    // String형 변수
@@ -28,7 +17,7 @@
 #### int my_number;     // int형 변수
 #### String my_name;    // String형 변수
 #### boolean is_next;   // boolean형 변수
-##### Github project 제목이나 CommitMessage등에 주로 사용하자
+
 
 <!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="150"/>
