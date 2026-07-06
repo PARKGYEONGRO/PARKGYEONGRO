@@ -4,9 +4,9 @@
 #### A student who wants to do well in Program, Web Development, Data Analysis, Data mining and AI etc
 #### GitHub, Notion만 사용(뭐 많이 쓰더라~, 요즘 이게 유행이더라~,... daaaamn)
 
-#### 주 언어 / Python
-### 통계 / R, SPSS, SAS
-### JS, C++ 가능
+### 주 언어 / Python
+#### 통계 / R, SPSS, SAS
+#### JS, C++ 가능
 ### VSCODE / Atom One Dark
 ---
 ### 나와의 약속 / Personal use naming rules
