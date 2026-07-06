@@ -11,10 +11,10 @@
 ---
 ### 나와의 약속 / Personal use naming rules
 ### 실무에서 파스칼이랑 언더바 표기법 많이 쓴다길래 습관 바꿀게요
-### - 파스칼 표기법(pascal case),                   언더바 표기법(snake_case)
-#### int MyNumber; // int형 변수                    int my_number; // int형 변수
-#### String MyName; // String형 변수                String my_name; // String형 변수
-#### boolean IsNext; // boolean형 변수              boolean is_next; // boolean형 변수
+### - 파스칼 표기법(pascal case), 언더바 표기법(snake_case)
+#### int MyNumber; // int형 변수 | int my_number; // int형 변수
+#### String MyName; // String형 변수 | String my_name; // String형 변수
+#### boolean IsNext; // boolean형 변수 | boolean is_next; // boolean형 변수
 
 
 <!-- <div id="header" align="center">
