@@ -1,3 +1,7 @@
+<div align=center>
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=300&color=gradient&text=PARKGYEONGRO&reversal=false&section=header&textBg=false"/>
+</div>
+
 # 박경로(PARKGYEONGRO)
 
 #### 프로그램, 웹 개발, 데이터분석, 마이닝, AI 등 모두 잘 하고 싶은 학생
