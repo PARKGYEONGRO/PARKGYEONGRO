@@ -11,22 +11,25 @@
 
 ### 📚TECH STACKS
 <div>
-  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SAS-brightgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <br>
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/> 
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/> 
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Statistics-SAS%20/%20R-brightgreen?style=for-the-badge">
-  <br>
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
   <img src="https://img.shields.io/badge/javascript-d7bF00?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/android studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/android studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
 </div>
 
 ### VSCODE / Atom One Dark
@@ -44,18 +47,18 @@
   <tbody>
     <tr>
       <td style="padding: 8px;">int형 변수</td>
-      <td style="padding: 8px;"><code>int MyNumber;</code></td>
-      <td style="padding: 8px;"><code>int my_number;</code></td>
+      <td style="padding: 8px;"><code>MyNumber</code></td>
+      <td style="padding: 8px;"><code>my_number</code></td>
     </tr>
     <tr>
       <td style="padding: 8px;">String형 변수</td>
-      <td style="padding: 8px;"><code>String MyName;</code></td>
-      <td style="padding: 8px;"><code>String my_name;</code></td>
+      <td style="padding: 8px;"><code>MyName</code></td>
+      <td style="padding: 8px;"><code>my_name</code></td>
     </tr>
     <tr>
       <td style="padding: 8px;">boolean형 변수</td>
-      <td style="padding: 8px;"><code>boolean IsNext;</code></td>
-      <td style="padding: 8px;"><code>boolean is_next;</code></td>
+      <td style="padding: 8px;"><code>IsNext</code></td>
+      <td style="padding: 8px;"><code>is_next</code></td>
     </tr>
   </tbody>
 </table>
