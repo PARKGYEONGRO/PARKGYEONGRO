@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=300&color=gradient&text=PARKGYEONGRO&reversal=false&section=header&textBg=false"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=300&color=gradient&fontColor=ffffff&text=PARKGYEONGRO&reversal=false&section=header&textBg=false"/>
 </div>
 
 # 박경로(PARKGYEONGRO)
